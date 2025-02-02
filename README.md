@@ -28,7 +28,7 @@
 ### 📧 Como me encontrar:  
 - 🚀 [Portfólio](#)  
 - 💎 [Email](mailto:diegobmartins21@gmail.com)  
-- 💼 [LinkedIn](## �� Olá! Sou [Seu Nome]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-bezerra-martins-670561106/) 
 
 🚀 **Desenvolvedor Frontend** apaixonado por criar experiências incríveis na web. Trabalho com tecnologias modernas para desenvolver interfaces intuitivas e de alto desempenho.  
 
