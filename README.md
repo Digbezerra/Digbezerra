@@ -1,14 +1,19 @@
-## Salve! 👋
+## �� Olá! Sou Diego Bezerra!
 
-## Sou o Diego Bezerra! 
+🚀 **Desenvolvedor Frontend** Bateu uma saudade de codar, então decidi criar uma trilha de estudos focando em me atualizar e voltar ao ritmo de antes.
 
-### Já fui QA, Dev Frontend Adobe Commerce, Engenheiro de Software e hoje estou empreendedor.
+### Quem sou eU?
 
-#### Senti saudades do desenvolvimento Frontend, e fiz uma trilha de estudos para me atualizar e quem sabe voltar ao ritmo de antes. 😎
+Meu nome é Diego, a galera me conhece como "Dig"
 
-## Minhas Skills
+Gosto de criar aplicações web e pretendo focar em mobile
 
-🚀 **Desenvolvedor Frontend** 
+Ja trabalhei como:
+- QA
+- Dev FrontEnd React
+- Dev FrontEnd Adobe Commerce
+- Engenheiro de software
+- E hoje estou empreendedor
 
 ### 🔧 Tecnologias e Ferramentas:  
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
@@ -22,11 +27,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ### 📊 Estatísticas do GitHub:  
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Digbezerra&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Digbezerra&layout=compact&theme=radical)  
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
 
-### 📧 Como me encontrar:  
+### 📧 Como me encontrar:    
 - 💎 [Email](mailto:diegobmartins21@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/diego-bezerra-martins-670561106/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-bezerra-martins-670561106/)  
+
+---  
 
 🚀 Me acompanhe nessa jornada! TMJ
+
