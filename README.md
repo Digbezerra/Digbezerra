@@ -1,6 +1,8 @@
 ## �� Olá! Sou Diego Bezerra!
 
-🚀 **Desenvolvedor Frontend** Bateu uma saudade de codar, então decidi criar uma trilha de estudos focando em me atualizar e voltar ao ritmo de antes.
+🚀 **Desenvolvedor Frontend** 
+
+Bateu uma saudade de codar, então decidi criar uma trilha de estudos focando em me atualizar e voltar ao ritmo de antes.
 
 ### Quem sou eU?
 
