@@ -4,13 +4,13 @@
 
 Bateu uma saudade de codar, então decidi criar uma trilha de estudos focando em me atualizar e voltar ao ritmo de antes.
 
-### Quem sou eU?
+### Quem sou eu?
 
 Meu nome é Diego, a galera me conhece como "Dig"
 
 Gosto de criar aplicações web e pretendo focar em mobile
 
-Ja trabalhei como:
+Já fui:
 - QA
 - Dev FrontEnd React
 - Dev FrontEnd Adobe Commerce
