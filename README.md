@@ -1,4 +1,4 @@
-## Olá! Sou o Diego Bezerra!
+## Olá! 👋 sou o Diego Bezerra!
 
 🚀 **Desenvolvedor Frontend** 
 
