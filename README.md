@@ -29,8 +29,8 @@ Já fui:
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ### 📊 Estatísticas do GitHub:  
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)  
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Digbezerra&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Digbezerra&layout=compact&theme=radical)  
 
 ### 📧 Como me encontrar:    
 - 💎 [Email](mailto:diegobmartins21@gmail.com)  
