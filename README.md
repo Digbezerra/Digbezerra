@@ -34,7 +34,8 @@ Já fui:
 
 ### 📧 Como me encontrar:    
 - 💎 [Email](mailto:diegobmartins21@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/diego-bezerra-martins-670561106/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-bezerra-martins-670561106/) 
+- 😺 [Github Antigo](https://github.com/DiegoBezerra89)
 
 ---  
 
